@@ -1,0 +1,10 @@
+# Make sure your computer has node installed in it 
+
+Step 1 : Open both the Front-end and back-end on your text-editor
+
+Step 2: Run "npm i" in both the folders 
+
+Step 3: In back-end run "node index.js" 
+
+Step 4: In front-end run "npm start"
+
